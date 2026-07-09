@@ -5,6 +5,9 @@
     <img alt="OXYPHER" src="https://img.shields.io/badge/OXYPHER-00aa66?style=for-the-badge&labelColor=ffffff&logo=lock&logoColor=00aa66" width="320">
   </picture>
   <br/><br/>
+  <p align="center">
+  <img src="assets/logo2.png" alt="Logo del proyecto" width="400" />
+</p>
   <p><strong>End-to-end encrypted P2P file transfer · Zero servers · Zero logs</strong></p>
 
   <br/>
