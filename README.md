@@ -6,7 +6,7 @@
   </picture>
   <br/><br/>
   <p align="center">
-  <img src="assets/logo2.png" alt="Logo del proyecto" width="400" />
+  <img src="assets/logo2.png" alt="Logo del proyecto" width="150" />
 </p>
   <p><strong>End-to-end encrypted P2P file transfer · Zero servers · Zero logs</strong></p>
 
